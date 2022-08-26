@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madhannaidu
+- 👋 Hi, I’m Madhan 
 - 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning Python, R, Tableau, MySQL, Azure, Apache, Sapark, Hadoop and SAS
 - 💞️ I’m looking to collaborate on all the topics related to Data Science
